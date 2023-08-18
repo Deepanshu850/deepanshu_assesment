@@ -23,4 +23,4 @@ Before getting started, make sure you have the following prerequisites installed
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/your-username/contactus-salon-deepanshu.git
+   git clone git@github.com:Deepanshu850/deepanshu_assesment.git
