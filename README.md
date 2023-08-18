@@ -21,6 +21,7 @@ Before getting started, make sure you have the following prerequisites installed
 ## Installation and Usage
 
 1. Clone this repository to your local environment:
+2. Do not forget to install php mailer to work this project :
 
    ```bash
    git clone git@github.com:Deepanshu850/deepanshu_assesment.git
